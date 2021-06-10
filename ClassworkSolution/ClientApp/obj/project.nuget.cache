@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gkAM8M7P/blJGDcFboE2jQZP4eLvP/raaNeSAimPlhliOim531zidUD5R+4OEBNWQitxl8LBj7BXoxd5tDbGOg==",
+  "success": true,
+  "projectFilePath": "F:\\WebAPI\\ClassworkSolution\\ClientApp\\ClientApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aivaz\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\aivaz\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
